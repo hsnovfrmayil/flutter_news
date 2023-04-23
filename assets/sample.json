@@ -1,0 +1,39 @@
+{
+    "items":[
+        {
+            "text":"Turistlerin en cox diqqetini ceken yerlerin adi aciqlandi",
+            "src":"https://img.traveltriangle.com/blog/wp-content/uploads/2019/01/Mountains-In-New-Zealand-Cover.jpg",
+            "extra": "Yay movsumun yaxinlasmasi ile turisti axinida baslayir, bununla elaqeli olaraq kecen il en cox seyahet edilen yerlerin siyahisi aciqlandi"
+        },
+        {
+            "text":"Turkiyede prezident secimi erefisidir",
+            "src":"https://content.time.com/time/images/covers/europe/2011/20111128_400.jpg",
+            "extra": "Turkiye prezident secimleri baslayir, yene oldugu kimi partilerde hereketlenme musahide olunur"
+        },
+        {
+            "text":"Ramazan ayi munasibeti ile kecirilen destek kampaniyalari",
+            "src":"https://apa.az/storage/news/2023/april/20/big/64410d2c2ccc364410d2c2ccc4168198481264410d2c2ccbe64410d2c2ccc0.jpeg",
+            "extra": "Olkemizde elecede dunyada Ramazan ayi ile eleqader olaraq destek kampaniyalari edilir, bu tekce muselman olkelerde deyilde diger olkelerdede kecirildi"
+        },
+        {
+            "text":"11ci siniflerin neticeleri aciqlandi",
+            "src":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREcslELzT0DlNdyHg_A6AqmnuiXylq7l5GDoKcff4dkDZHp9hzJoXZqf2xXFqyWflIXvA&usqp=CAU",
+            "extra": "11 ci siniflere shad xeber, 11ci sinif buraxilis imtahanlarinin cavablari aciqlandi"
+        },
+        {
+            "text":"Pandemiyanin yeniden baslamasi gozlenilir mi",
+            "src":"https://medeniyyet.az/img/news/900x/_1676387310.jpg",
+            "extra": "Bir cox pandemiyanin yeniden yasanacagi ile bagli heyecan tebili calmaga basladi"
+        },
+        {
+            "text":"Avtomobillerin qiymetinde artim musahide olunur",
+            "src":"https://sia.az/storage/2021/02/18/700x350/avto_bazar_son.jpg",
+            "extra": "Olkemizde masin bazarinda canlanma musahide olunur. Bununla elaqeder olaraqda qiymetlerin artimi goz deyir"
+        },
+        {
+            "text":"Resid Behbudovun anim gunu ile bagli tedbir kecirilmesi nezerde tutulur",
+            "src":"https://melumatlar.az/uploadedimages/blog/2020/7/9/c9edcaa8-8d55-4dcb-8d09-cddcea719583.jpg",
+            "extra": "Azerbaycanin efsanevi senetcilerinden olan Resid Behbudovun anim gunu ile bagli tedbir kecirilmesi nezerde tutulur. Nezerinize catdiraqki Resid Behbudov neinki Sovet olkelerinde hetta dunyaca meshur senetcidi"
+        }
+    ]
+}
